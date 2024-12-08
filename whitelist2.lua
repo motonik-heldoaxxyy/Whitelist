@@ -1,3 +1,3 @@
-local whitelisted = {"HASUAWUH", "Devinja89"}
+local whitelisted = {"HASUAWUH", "Devinja89", "roblox"}
 
 return whitelisted
